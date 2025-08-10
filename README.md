@@ -1,3 +1,3 @@
 # machine-learning-zoomcamp-homework
 
-Hello WOrld!
+Hello World!
